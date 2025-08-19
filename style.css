@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+  background-color: #f2f2f2;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+}
+
+.retangulo {
+  border-radius: 8px;
+}
+
+
+.linha-amarela {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 10px;
+}
+
+.coluna-verde {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.coluna-lilas {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+/* Laranjas (topo) */
+.laranja {
+  height: 150px;
+  background-color: orange;
+  margin-bottom: 50px;
+  width: 600px;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 20%;
+}
+
+/* Verdes (meio)*/
+.verde {
+  height: 120px;
+  background-color: green;
+  margin-bottom: 50px;
+  width: 1200px;
+}
+
+/* Lilas (baixo)*/
+.lilas {
+  height: 100px;
+  background-color: rgb(152, 114, 201);
+  margin-bottom: 50px;
+  width: 400px;
+}
+
+@media (max-width: 600px) {
+
+    
+}
