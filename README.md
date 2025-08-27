@@ -1,5 +1,6 @@
 # Práticas de atividades
 
+Atividades realizadas dutantes as aulas.
 Atividades listadas no git do professor Helio.
 
 ## Tecnologias
