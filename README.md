@@ -1,7 +1,7 @@
 # Práticas de atividades
 
-Atividades realizadas dutantes as aulas.
-Atividades listadas no git do professor Helio.
+- Atividades realizadas dutantes as aulas.
+- Atividades listadas no git do professor Helio.
 
 ## Tecnologias
 - HTML
